@@ -189,14 +189,14 @@ export default function Home() {
                 </div>
               </div>
               <div className="hidden lg:block relative">
-                <div className="relative h-[400px] w-[400px]">
-                  <div className="absolute inset-0 bg-gradient-to-br from-[#8a9155]/20 to-transparent rounded-full blur-xl"></div>
-                  <div className="absolute inset-10 bg-[#1a1a1a] rounded-full border border-[#8a9155]/30"></div>
-                  <div className="absolute inset-0 flex items-center justify-center">
-                    <div className="text-[#8a9155] text-9xl font-bold opacity-20">
-                      V
-                    </div>
-                  </div>
+                <div className="relative h-[400px] w-[400px] flex items-center justify-center">
+                  <Image
+                    src="/assets/logo.png"
+                    alt="Vistruaz Logo"
+                    width={700}
+                    height={700}
+                    className="object-contain"
+                  />
                 </div>
               </div>
             </div>
