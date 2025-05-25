@@ -84,7 +84,7 @@ export default function Home() {
               variant="outline"
               className="border-[#8a9155] text-[#8a9155] hover:bg-[#8a9155]/20 hover:text-[#a0a86b]"
             >
-              Recruiter Login
+              Startup / Recruiter Login
             </Button>
             <Button
               variant="outline"
