@@ -353,7 +353,7 @@ export default function Home() {
                 </CardContent>
                 <CardFooter className="relative z-10">
                   <Link
-                    href="https://asvatthi.com"
+                    href="https://www.asvatthi.com"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
