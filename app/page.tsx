@@ -335,7 +335,7 @@ export default function Home() {
                 <CardHeader className="relative z-10">
                   <div className="flex items-center justify-between">
                     <CardTitle className="text-2xl font-bold text-white">
-                      Asvatthi.com
+                      Asvatthi
                     </CardTitle>
                     <ExternalLink className="h-5 w-5 text-[#8a9155]" />
                   </div>
@@ -371,7 +371,7 @@ export default function Home() {
                 <CardHeader className="relative z-10">
                   <div className="flex items-center justify-between">
                     <CardTitle className="text-2xl font-bold text-white">
-                      Numerical Labs
+                      Numerikal Labs
                     </CardTitle>
                     <ExternalLink className="h-5 w-5 text-[#8a9155]" />
                   </div>
@@ -390,7 +390,7 @@ export default function Home() {
                 </CardContent>
                 <CardFooter className="relative z-10">
                   <Link
-                    href="https://numericallabs.com"
+                    href="https://numerikal-labs.org"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
