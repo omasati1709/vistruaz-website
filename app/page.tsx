@@ -483,11 +483,10 @@ export default function Home() {
                           variant="link"
                           className="text-[#8a9155] p-0 h-auto font-normal hover:text-[#a0a86b]"
                           onClick={() =>
-                            (window.location.href =
-                              "mailto:contact@vistruaz.com")
+                            (window.location.href = "mailto:info@vistruaz.com")
                           }
                         >
-                          contact@vistruaz.com
+                          info@vistruaz.com
                         </Button>
                       </div>
                     </div>
@@ -497,7 +496,7 @@ export default function Home() {
                     <Button
                       className="bg-[#8a9155] hover:bg-[#62653f] text-white px-8 py-6 h-auto text-lg group"
                       onClick={() =>
-                        (window.location.href = "mailto:contact@vistruaz.com")
+                        (window.location.href = "mailto:info@vistruaz.com")
                       }
                     >
                       <Mail className="mr-2 h-5 w-5" /> Contact Us
